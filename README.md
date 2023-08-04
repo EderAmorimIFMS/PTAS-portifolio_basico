@@ -1,5 +1,5 @@
-# trabalho-ptas01
-Tecnologias Usadas:
+# PTAS-portifolio_basico 
+### Tecnologias Usadas:
 - Node js
 - HTML 
 - JavaScript
